@@ -1,3 +1,5 @@
+#!/bin/bash
+
 set -e
 # Get a carriage return into `cr`
 cr=`echo $'\n.'`
